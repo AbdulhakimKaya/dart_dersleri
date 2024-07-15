@@ -1,4 +1,4 @@
-import 'package:dart_dersleri/03_nesne_tabanli_programlama/odev2.dart';
+import 'package:dart_dersleri/03_nesne_tabanli_programlama/03_odev2.dart';
 
 void main() {
   var f = Odev2();

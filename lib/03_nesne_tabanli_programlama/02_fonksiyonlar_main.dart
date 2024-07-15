@@ -1,4 +1,4 @@
-import 'package:dart_dersleri/03_nesne_tabanli_programlama/fonksiyonlar.dart';
+import 'package:dart_dersleri/03_nesne_tabanli_programlama/02_fonksiyonlar.dart';
 
 void main() {
   var f = Functions();

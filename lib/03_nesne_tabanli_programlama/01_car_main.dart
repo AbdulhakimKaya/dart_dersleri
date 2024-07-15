@@ -1,4 +1,4 @@
-import 'package:dart_dersleri/03_nesne_tabanli_programlama/car.dart';
+import 'package:dart_dersleri/03_nesne_tabanli_programlama/01_car.dart';
 
 void main() {
   var mercedes = Car(color: "White", speed: 230,isActive:  true);
