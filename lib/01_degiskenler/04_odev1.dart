@@ -1,5 +1,5 @@
 void main() {
-  String continent = "Asya";
+  String continent = "Avrupa";
   String country = "Türkiye";
   String city = "Malatya";
   String district = "Battalgazi";
@@ -12,4 +12,12 @@ void main() {
   var companyName = "Udemy";
   var debt = 2500;
   var couponPeriod = 15.0;
+
+  print(postalCode);
+  print(dateOfBirth);
+  print(price);
+  print(postalCode);
+  print(companyName);
+  print(debt);
+  print(couponPeriod);
 }
